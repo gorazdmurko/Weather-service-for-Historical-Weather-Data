@@ -1,0 +1,266 @@
+{
+  "location" : {
+    "name" : "Milanowek",
+    "region" : "",
+    "country" : "Poland"
+  },
+  "forecast" : {
+    "forecastday" : [ {
+      "date" : "2021-08-01",
+      "day" : {
+        "condition" : {
+          "text" : "Overcast",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/122.png",
+          "code" : 1009
+        },
+        "maxtemp_c" : 22.9,
+        "mintemp_c" : 16.5
+      },
+      "astro" : {
+        "sunrise" : "04:59 AM",
+        "sunset" : "08:27 PM"
+      },
+      "hour" : [ {
+        "time" : "2021-08-01 00:00",
+        "temp_c" : 17.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 84
+      }, {
+        "time" : "2021-08-01 01:00",
+        "temp_c" : 17.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 82
+      }, {
+        "time" : "2021-08-01 02:00",
+        "temp_c" : 16.9,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 81
+      }, {
+        "time" : "2021-08-01 03:00",
+        "temp_c" : 16.5,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 79
+      }, {
+        "time" : "2021-08-01 04:00",
+        "temp_c" : 17.3,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 74
+      }, {
+        "time" : "2021-08-01 05:00",
+        "temp_c" : 18.2,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 69
+      }, {
+        "time" : "2021-08-01 06:00",
+        "temp_c" : 19.0,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 64
+      }, {
+        "time" : "2021-08-01 07:00",
+        "temp_c" : 20.2,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 59
+      }, {
+        "time" : "2021-08-01 08:00",
+        "temp_c" : 21.3,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 55
+      }, {
+        "time" : "2021-08-01 09:00",
+        "temp_c" : 22.5,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 50
+      }, {
+        "time" : "2021-08-01 10:00",
+        "temp_c" : 22.6,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 50
+      }, {
+        "time" : "2021-08-01 11:00",
+        "temp_c" : 22.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 51
+      }, {
+        "time" : "2021-08-01 12:00",
+        "temp_c" : 22.9,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 51
+      }, {
+        "time" : "2021-08-01 13:00",
+        "temp_c" : 21.9,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 55
+      }, {
+        "time" : "2021-08-01 14:00",
+        "temp_c" : 21.0,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 59
+      }, {
+        "time" : "2021-08-01 15:00",
+        "temp_c" : 20.0,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 63
+      }, {
+        "time" : "2021-08-01 16:00",
+        "temp_c" : 19.2,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 65
+      }, {
+        "time" : "2021-08-01 17:00",
+        "temp_c" : 18.4,
+        "condition" : {
+          "text" : "Overcast",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/122.png",
+          "code" : 1009
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 67
+      }, {
+        "time" : "2021-08-01 18:00",
+        "temp_c" : 17.6,
+        "condition" : {
+          "text" : "Overcast",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/122.png",
+          "code" : 1009
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 70
+      }, {
+        "time" : "2021-08-01 19:00",
+        "temp_c" : 17.3,
+        "condition" : {
+          "text" : "Overcast",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/122.png",
+          "code" : 1009
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 71
+      }, {
+        "time" : "2021-08-01 20:00",
+        "temp_c" : 16.9,
+        "condition" : {
+          "text" : "Light rain shower",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/353.png",
+          "code" : 1240
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 73
+      }, {
+        "time" : "2021-08-01 21:00",
+        "temp_c" : 16.6,
+        "condition" : {
+          "text" : "Light rain shower",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/353.png",
+          "code" : 1240
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 75
+      }, {
+        "time" : "2021-08-01 22:00",
+        "temp_c" : 15.8,
+        "condition" : {
+          "text" : "Light rain shower",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/353.png",
+          "code" : 1240
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 80
+      }, {
+        "time" : "2021-08-01 23:00",
+        "temp_c" : 15.1,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1008.0,
+        "humidity" : 85
+      } ]
+    } ]
+  }
+}

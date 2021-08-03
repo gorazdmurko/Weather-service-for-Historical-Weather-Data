@@ -1,0 +1,121 @@
+[ {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627776000000,
+  "temp_c" : 17.4
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627779600000,
+  "temp_c" : 17.1
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627783200000,
+  "temp_c" : 16.7
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627786800000,
+  "temp_c" : 16.4
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627790400000,
+  "temp_c" : 17.0
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627794000000,
+  "temp_c" : 17.7
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627797600000,
+  "temp_c" : 18.3
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627801200000,
+  "temp_c" : 20.3
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627804800000,
+  "temp_c" : 22.4
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627808400000,
+  "temp_c" : 24.4
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627812000000,
+  "temp_c" : 26.2
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627815600000,
+  "temp_c" : 28.0
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627819200000,
+  "temp_c" : 29.8
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627822800000,
+  "temp_c" : 30.0
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627826400000,
+  "temp_c" : 30.2
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627830000000,
+  "temp_c" : 30.4
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627833600000,
+  "temp_c" : 29.4
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627837200000,
+  "temp_c" : 28.3
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627840800000,
+  "temp_c" : 27.3
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627844400000,
+  "temp_c" : 26.2
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627848000000,
+  "temp_c" : 25.1
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627851600000,
+  "temp_c" : 24.0
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627855200000,
+  "temp_c" : 22.3
+}, {
+  "location" : "Maribor",
+  "country" : "Slovenia",
+  "time" : 1627858800000,
+  "temp_c" : 20.5
+} ]

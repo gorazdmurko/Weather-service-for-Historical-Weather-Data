@@ -1,0 +1,26 @@
+
+body {
+    background-color: darkgreen;
+}
+
+label {
+    color: magenta;
+    margin: 2vw;
+}
+
+#txtLoc {
+    background-color: darkkhaki;
+    margin-left: 2vw;
+}
+
+#txtDate {
+    background-color: darkkhaki;
+    margin-left: 14vw;
+}
+
+
+#butSubmit {
+    background-color: beige;
+    color: red;
+    margin-left: 5vw;
+ }

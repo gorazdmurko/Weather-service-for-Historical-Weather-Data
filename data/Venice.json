@@ -1,0 +1,121 @@
+[ {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627776000000,
+  "temp_c" : 22.8
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627779600000,
+  "temp_c" : 22.1
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627783200000,
+  "temp_c" : 21.5
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627786800000,
+  "temp_c" : 20.8
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627790400000,
+  "temp_c" : 20.9
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627794000000,
+  "temp_c" : 21.1
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627797600000,
+  "temp_c" : 21.2
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627801200000,
+  "temp_c" : 22.5
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627804800000,
+  "temp_c" : 23.7
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627808400000,
+  "temp_c" : 25.0
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627812000000,
+  "temp_c" : 26.1
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627815600000,
+  "temp_c" : 27.1
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627819200000,
+  "temp_c" : 28.2
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627822800000,
+  "temp_c" : 28.3
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627826400000,
+  "temp_c" : 28.4
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627830000000,
+  "temp_c" : 28.5
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627833600000,
+  "temp_c" : 27.6
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627837200000,
+  "temp_c" : 26.7
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627840800000,
+  "temp_c" : 25.8
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627844400000,
+  "temp_c" : 25.0
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627848000000,
+  "temp_c" : 24.1
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627851600000,
+  "temp_c" : 23.3
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627855200000,
+  "temp_c" : 21.7
+}, {
+  "location" : "Venice",
+  "country" : "Italy",
+  "time" : 1627858800000,
+  "temp_c" : 20.2
+} ]

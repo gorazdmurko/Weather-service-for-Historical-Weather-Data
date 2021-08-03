@@ -1,0 +1,121 @@
+[ {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627776000000,
+  "temp_c" : 16.5
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627779600000,
+  "temp_c" : 16.1
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627783200000,
+  "temp_c" : 15.6
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627786800000,
+  "temp_c" : 15.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627790400000,
+  "temp_c" : 15.5
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627794000000,
+  "temp_c" : 15.9
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627797600000,
+  "temp_c" : 16.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627801200000,
+  "temp_c" : 17.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627804800000,
+  "temp_c" : 18.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627808400000,
+  "temp_c" : 19.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627812000000,
+  "temp_c" : 20.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627815600000,
+  "temp_c" : 21.1
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627819200000,
+  "temp_c" : 22.1
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627822800000,
+  "temp_c" : 22.1
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627826400000,
+  "temp_c" : 22.0
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627830000000,
+  "temp_c" : 22.0
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627833600000,
+  "temp_c" : 21.2
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627837200000,
+  "temp_c" : 20.3
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627840800000,
+  "temp_c" : 19.5
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627844400000,
+  "temp_c" : 18.6
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627848000000,
+  "temp_c" : 17.7
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627851600000,
+  "temp_c" : 16.8
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627855200000,
+  "temp_c" : 16.0
+}, {
+  "location" : "Gdansk",
+  "country" : "Poland",
+  "time" : 1627858800000,
+  "temp_c" : 15.3
+} ]

@@ -1,0 +1,266 @@
+{
+  "location" : {
+    "name" : "Madrid",
+    "region" : "Madrid",
+    "country" : "Spain"
+  },
+  "forecast" : {
+    "forecastday" : [ {
+      "date" : "2021-07-31",
+      "day" : {
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "maxtemp_c" : 28.3,
+        "mintemp_c" : 21.1
+      },
+      "astro" : {
+        "sunrise" : "07:11 AM",
+        "sunset" : "09:31 PM"
+      },
+      "hour" : [ {
+        "time" : "2021-07-31 00:00",
+        "temp_c" : 28.6,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 18
+      }, {
+        "time" : "2021-07-31 01:00",
+        "temp_c" : 27.3,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 21
+      }, {
+        "time" : "2021-07-31 02:00",
+        "temp_c" : 25.9,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 24
+      }, {
+        "time" : "2021-07-31 03:00",
+        "temp_c" : 24.6,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 27
+      }, {
+        "time" : "2021-07-31 04:00",
+        "temp_c" : 23.4,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 30
+      }, {
+        "time" : "2021-07-31 05:00",
+        "temp_c" : 22.3,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 33
+      }, {
+        "time" : "2021-07-31 06:00",
+        "temp_c" : 21.1,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 36
+      }, {
+        "time" : "2021-07-31 07:00",
+        "temp_c" : 21.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 36
+      }, {
+        "time" : "2021-07-31 08:00",
+        "temp_c" : 22.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 36
+      }, {
+        "time" : "2021-07-31 09:00",
+        "temp_c" : 23.1,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 36
+      }, {
+        "time" : "2021-07-31 10:00",
+        "temp_c" : 24.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 34
+      }, {
+        "time" : "2021-07-31 11:00",
+        "temp_c" : 25.7,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 31
+      }, {
+        "time" : "2021-07-31 12:00",
+        "temp_c" : 27.0,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 29
+      }, {
+        "time" : "2021-07-31 13:00",
+        "temp_c" : 27.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 28
+      }, {
+        "time" : "2021-07-31 14:00",
+        "temp_c" : 27.9,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 27
+      }, {
+        "time" : "2021-07-31 15:00",
+        "temp_c" : 28.3,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 26
+      }, {
+        "time" : "2021-07-31 16:00",
+        "temp_c" : 27.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 26
+      }, {
+        "time" : "2021-07-31 17:00",
+        "temp_c" : 27.2,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 27
+      }, {
+        "time" : "2021-07-31 18:00",
+        "temp_c" : 26.7,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 28
+      }, {
+        "time" : "2021-07-31 19:00",
+        "temp_c" : 25.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 30
+      }, {
+        "time" : "2021-07-31 20:00",
+        "temp_c" : 24.9,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 31
+      }, {
+        "time" : "2021-07-31 21:00",
+        "temp_c" : 24.0,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 33
+      }, {
+        "time" : "2021-07-31 22:00",
+        "temp_c" : 22.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 36
+      }, {
+        "time" : "2021-07-31 23:00",
+        "temp_c" : 21.5,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 39
+      } ]
+    } ]
+  }
+}

@@ -1,0 +1,121 @@
+[ {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627603200000,
+  "temp_c" : 27.2
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627606800000,
+  "temp_c" : 27.0
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627610400000,
+  "temp_c" : 26.7
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627614000000,
+  "temp_c" : 26.5
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627617600000,
+  "temp_c" : 27.0
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627621200000,
+  "temp_c" : 27.6
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627624800000,
+  "temp_c" : 28.1
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627628400000,
+  "temp_c" : 29.3
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627632000000,
+  "temp_c" : 30.6
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627635600000,
+  "temp_c" : 31.8
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627639200000,
+  "temp_c" : 32.6
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627642800000,
+  "temp_c" : 33.3
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627646400000,
+  "temp_c" : 34.1
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627650000000,
+  "temp_c" : 34.0
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627653600000,
+  "temp_c" : 33.9
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627657200000,
+  "temp_c" : 33.8
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627660800000,
+  "temp_c" : 33.1
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627664400000,
+  "temp_c" : 32.4
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627668000000,
+  "temp_c" : 31.7
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627671600000,
+  "temp_c" : 30.9
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627675200000,
+  "temp_c" : 30.1
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627678800000,
+  "temp_c" : 29.3
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627682400000,
+  "temp_c" : 29.0
+}, {
+  "location" : "Rome",
+  "country" : "Italy",
+  "time" : 1627686000000,
+  "temp_c" : 28.7
+} ]

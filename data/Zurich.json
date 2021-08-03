@@ -1,0 +1,121 @@
+[ {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627776000000,
+  "temp_c" : 14.3
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627779600000,
+  "temp_c" : 14.1
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627783200000,
+  "temp_c" : 13.9
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627786800000,
+  "temp_c" : 13.7
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627790400000,
+  "temp_c" : 13.7
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627794000000,
+  "temp_c" : 13.7
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627797600000,
+  "temp_c" : 13.7
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627801200000,
+  "temp_c" : 13.8
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627804800000,
+  "temp_c" : 13.9
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627808400000,
+  "temp_c" : 14.0
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627812000000,
+  "temp_c" : 14.1
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627815600000,
+  "temp_c" : 14.1
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627819200000,
+  "temp_c" : 14.2
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627822800000,
+  "temp_c" : 14.5
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627826400000,
+  "temp_c" : 14.9
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627830000000,
+  "temp_c" : 15.2
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627833600000,
+  "temp_c" : 14.9
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627837200000,
+  "temp_c" : 14.7
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627840800000,
+  "temp_c" : 14.4
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627844400000,
+  "temp_c" : 13.9
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627848000000,
+  "temp_c" : 13.3
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627851600000,
+  "temp_c" : 12.8
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627855200000,
+  "temp_c" : 12.7
+}, {
+  "location" : "Zurich",
+  "country" : "Switzerland",
+  "time" : 1627858800000,
+  "temp_c" : 12.6
+} ]

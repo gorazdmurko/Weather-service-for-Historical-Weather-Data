@@ -1,0 +1,121 @@
+[ {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627776000000,
+  "temp_c" : 17.4
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627779600000,
+  "temp_c" : 16.9
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627783200000,
+  "temp_c" : 16.4
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627786800000,
+  "temp_c" : 15.9
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627790400000,
+  "temp_c" : 16.0
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627794000000,
+  "temp_c" : 16.1
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627797600000,
+  "temp_c" : 16.2
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627801200000,
+  "temp_c" : 17.2
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627804800000,
+  "temp_c" : 18.1
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627808400000,
+  "temp_c" : 19.1
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627812000000,
+  "temp_c" : 20.1
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627815600000,
+  "temp_c" : 21.2
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627819200000,
+  "temp_c" : 22.2
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627822800000,
+  "temp_c" : 22.4
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627826400000,
+  "temp_c" : 22.5
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627830000000,
+  "temp_c" : 22.7
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627833600000,
+  "temp_c" : 22.3
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627837200000,
+  "temp_c" : 22.0
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627840800000,
+  "temp_c" : 21.6
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627844400000,
+  "temp_c" : 21.0
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627848000000,
+  "temp_c" : 20.3
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627851600000,
+  "temp_c" : 19.7
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627855200000,
+  "temp_c" : 19.0
+}, {
+  "location" : "Bohnsdorf",
+  "country" : "Germany",
+  "time" : 1627858800000,
+  "temp_c" : 18.3
+} ]

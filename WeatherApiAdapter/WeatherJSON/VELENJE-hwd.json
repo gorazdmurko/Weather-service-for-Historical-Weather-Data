@@ -1,0 +1,266 @@
+{
+  "location" : {
+    "name" : "Velenje",
+    "region" : "Brezovica",
+    "country" : "Slovenia"
+  },
+  "forecast" : {
+    "forecastday" : [ {
+      "date" : "2021-07-30",
+      "day" : {
+        "condition" : {
+          "text" : "Patchy light rain with thunder",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/386.png",
+          "code" : 1273
+        },
+        "maxtemp_c" : 27.7,
+        "mintemp_c" : 17.8
+      },
+      "astro" : {
+        "sunrise" : "05:39 AM",
+        "sunset" : "08:32 PM"
+      },
+      "hour" : [ {
+        "time" : "2021-07-30 00:00",
+        "temp_c" : 20.3,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 86
+      }, {
+        "time" : "2021-07-30 01:00",
+        "temp_c" : 19.5,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 86
+      }, {
+        "time" : "2021-07-30 02:00",
+        "temp_c" : 18.6,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 86
+      }, {
+        "time" : "2021-07-30 03:00",
+        "temp_c" : 17.8,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 86
+      }, {
+        "time" : "2021-07-30 04:00",
+        "temp_c" : 18.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 84
+      }, {
+        "time" : "2021-07-30 05:00",
+        "temp_c" : 19.1,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 81
+      }, {
+        "time" : "2021-07-30 06:00",
+        "temp_c" : 19.7,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 79
+      }, {
+        "time" : "2021-07-30 07:00",
+        "temp_c" : 21.5,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 73
+      }, {
+        "time" : "2021-07-30 08:00",
+        "temp_c" : 23.2,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 67
+      }, {
+        "time" : "2021-07-30 09:00",
+        "temp_c" : 25.0,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 60
+      }, {
+        "time" : "2021-07-30 10:00",
+        "temp_c" : 25.5,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 59
+      }, {
+        "time" : "2021-07-30 11:00",
+        "temp_c" : 26.1,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 59
+      }, {
+        "time" : "2021-07-30 12:00",
+        "temp_c" : 26.6,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 58
+      }, {
+        "time" : "2021-07-30 13:00",
+        "temp_c" : 27.0,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 57
+      }, {
+        "time" : "2021-07-30 14:00",
+        "temp_c" : 27.3,
+        "condition" : {
+          "text" : "Light rain shower",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/353.png",
+          "code" : 1240
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 55
+      }, {
+        "time" : "2021-07-30 15:00",
+        "temp_c" : 27.7,
+        "condition" : {
+          "text" : "Light rain shower",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/353.png",
+          "code" : 1240
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 54
+      }, {
+        "time" : "2021-07-30 16:00",
+        "temp_c" : 27.3,
+        "condition" : {
+          "text" : "Light rain shower",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/353.png",
+          "code" : 1240
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 59
+      }, {
+        "time" : "2021-07-30 17:00",
+        "temp_c" : 26.8,
+        "condition" : {
+          "text" : "Patchy light rain with thunder",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/386.png",
+          "code" : 1273
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 63
+      }, {
+        "time" : "2021-07-30 18:00",
+        "temp_c" : 26.4,
+        "condition" : {
+          "text" : "Patchy light rain with thunder",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/386.png",
+          "code" : 1273
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 68
+      }, {
+        "time" : "2021-07-30 19:00",
+        "temp_c" : 25.2,
+        "condition" : {
+          "text" : "Patchy light rain with thunder",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/386.png",
+          "code" : 1273
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 75
+      }, {
+        "time" : "2021-07-30 20:00",
+        "temp_c" : 23.9,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 82
+      }, {
+        "time" : "2021-07-30 21:00",
+        "temp_c" : 22.7,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 89
+      }, {
+        "time" : "2021-07-30 22:00",
+        "temp_c" : 21.4,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 89
+      }, {
+        "time" : "2021-07-30 23:00",
+        "temp_c" : 20.1,
+        "condition" : {
+          "text" : "Patchy rain possible",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/176.png",
+          "code" : 1063
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 89
+      } ]
+    } ]
+  }
+}
