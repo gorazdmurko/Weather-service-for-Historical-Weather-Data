@@ -1,5 +1,10 @@
 package si.projektna.unit29.rest.RestService;
 
+import com.fasterxml.jackson.core.JsonFactory;
+import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import si.projekna.unit29.wsITF.IWeatherService;
 import si.projekna.unit29.wsITF.TempData;
 import si.projektna.unit29.adapter.IWeatherApiProxy;
@@ -15,26 +20,19 @@ import javax.ws.rs.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
+import java.io.File;
 import java.io.IOException;
+import java.io.StringWriter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Base64;
 import java.util.Date;
+import java.util.HashMap;
 
 @Path("/weatherResource")
 @Singleton
 public class WeatherResource {
 
-    @Path("/temps")
-    @GET
-    @Produces("application/json")
-    public TempData[] getTempData() {
-        TempData[] temps = new TempData[5];
-        for(int i = 0; i < 5; i++) {
-            temps[i] = new TempData("Maribor", "Slovenia", new Date(), 11.3f + i);
-        }
-        return temps;
-    }
 
     @Path("/{date}")
     @GET
@@ -170,10 +168,88 @@ public class WeatherResource {
         return tempGraph;
     }
 
+    // T - E - S - T -I - N - G
+    TempData[] tempsTest = new TempData[5];                     // array of objects
+    HashMap<String, TempData> hashTest = new HashMap<>();       // map ( object w/ key - value pairs )
+
+    // 1. TEST
     @GET
     @Produces("text/plain")
     public String hello() {
         return "Hello, World!";
+    }
+
+    // 2. TEST
+    @Path("/tempsTest")
+    @GET
+    @Produces("application/json")
+    public TempData[] testGetTempData() {
+        for(int i = 0; i < 5; i++) {
+            tempsTest[i] = new TempData("Maribor", "Slovenia", new Date(), 11.3f + i);
+        }
+        return tempsTest;
+    }
+
+    // 3. TEST
+    @Path("/hashTest")
+    @GET
+    @Produces("application/json")
+    public HashMap<String, TempData> testGetHashData() {
+        for(TempData temp : tempsTest) {
+            hashTest.put(temp.getLocation(), temp);
+        }
+        return hashTest;
+    }
+
+    // 4. TEST
+    @Path("/parseJson")      // http://localhost:8081/RestService/api/weatherResource/parseJson
+    @GET
+    @Produces("application/json")
+    public JsonNode testParseJson() {
+        // 1. OPTION -> from file to object (node)
+        ObjectMapper mapper = new ObjectMapper();
+        String path = "C:\\Users\\Gorazd Murko\\Desktop\\Unit29_PROJEKTNA\\WeatherApiAdapter\\WeatherJSON\\berlin-hwd.json";
+        JsonNode node = null;
+        try {
+            node = mapper.readValue(new File(path), JsonNode.class);
+        } catch (IOException e) {
+            System.out.println(e);
+            // e.printStackTrace();
+        }
+
+        // 2. OPTION -> from string to object
+        // String string = "{\"name\": \"Sam Smith\", \"technology\": \"Python\"}";
+        // JSONObject json = new JSONObject(string);
+        // return json;
+
+        return node;
+    }
+
+    // 5. TEST
+    @Path("/stringifyJson")     // http://localhost:8081/RestService/api/weatherResource/stringifyJson
+    @GET
+    @Produces("text/plain")
+    public String testStringifyJson() {
+        ObjectMapper mapper = new ObjectMapper();
+        String path = "C:\\Users\\Gorazd Murko\\Desktop\\Unit29_PROJEKTNA\\WeatherApiAdapter\\WeatherJSON\\berlin-hwd.json";
+        JsonNode src = null;
+        try {
+            src = mapper.readValue(new File(path), JsonNode.class);
+        } catch (IOException e) {
+            System.out.println(e);
+            // e.printStackTrace();
+        }
+
+        StringWriter writer = new StringWriter();
+        JsonFactory factory = new JsonFactory();
+        try {
+            JsonGenerator generator = factory.createGenerator(writer);
+            mapper.writeTree(generator, src);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return writer.toString();
     }
 
 }

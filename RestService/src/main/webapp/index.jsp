@@ -35,9 +35,9 @@
     <input type="text" id="txtLoc" name="txtLoc" value="Maribor"><br>
     <label for="txtDate">Date</label>
     <input type="text" id="txtDate" name="txtDate" value="<%= new SimpleDateFormat("dd.MM.yyyy").format(Date.from(Instant.now().minus(Duration.ofDays(3))))%>"><br>
-    <input type="submit" id="butSubmit" value="Temperature Graph">
+    <input type="submit" id="butSubmit" value="Draw Graph">
   </form>
-  <div id="graph" style="">
+  <div id="graph">
     <img id="imgGraph">
   </div>
   </body>
