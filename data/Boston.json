@@ -1,0 +1,121 @@
+[ {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627948800000,
+  "temp_c" : 18.6
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627952400000,
+  "temp_c" : 18.2
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627956000000,
+  "temp_c" : 17.9
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627959600000,
+  "temp_c" : 17.5
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627963200000,
+  "temp_c" : 17.7
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627966800000,
+  "temp_c" : 18.0
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627970400000,
+  "temp_c" : 18.2
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627974000000,
+  "temp_c" : 19.4
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627977600000,
+  "temp_c" : 20.6
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627981200000,
+  "temp_c" : 21.8
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627984800000,
+  "temp_c" : 22.9
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627988400000,
+  "temp_c" : 24.1
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627992000000,
+  "temp_c" : 25.2
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627995600000,
+  "temp_c" : 25.2
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1627999200000,
+  "temp_c" : 25.2
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628002800000,
+  "temp_c" : 25.2
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628006400000,
+  "temp_c" : 24.1
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628010000000,
+  "temp_c" : 23.1
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628013600000,
+  "temp_c" : 22.0
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628017200000,
+  "temp_c" : 21.5
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628020800000,
+  "temp_c" : 21.1
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628024400000,
+  "temp_c" : 20.6
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628028000000,
+  "temp_c" : 20.6
+}, {
+  "location" : "Boston",
+  "country" : "United States of America",
+  "time" : 1628031600000,
+  "temp_c" : 20.6
+} ]

@@ -1,0 +1,121 @@
+[ {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627948800000,
+  "temp_c" : 12.3
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627952400000,
+  "temp_c" : 11.8
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627956000000,
+  "temp_c" : 11.2
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627959600000,
+  "temp_c" : 10.7
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627963200000,
+  "temp_c" : 12.1
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627966800000,
+  "temp_c" : 13.6
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627970400000,
+  "temp_c" : 15.0
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627974000000,
+  "temp_c" : 17.3
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627977600000,
+  "temp_c" : 19.5
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627981200000,
+  "temp_c" : 21.8
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627984800000,
+  "temp_c" : 23.2
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627988400000,
+  "temp_c" : 24.5
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627992000000,
+  "temp_c" : 25.9
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627995600000,
+  "temp_c" : 26.1
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1627999200000,
+  "temp_c" : 26.3
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628002800000,
+  "temp_c" : 26.5
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628006400000,
+  "temp_c" : 25.8
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628010000000,
+  "temp_c" : 25.0
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628013600000,
+  "temp_c" : 24.3
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628017200000,
+  "temp_c" : 23.1
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628020800000,
+  "temp_c" : 21.8
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628024400000,
+  "temp_c" : 20.6
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628028000000,
+  "temp_c" : 19.0
+}, {
+  "location" : "Celje",
+  "country" : "Slovenia",
+  "time" : 1628031600000,
+  "temp_c" : 17.4
+} ]

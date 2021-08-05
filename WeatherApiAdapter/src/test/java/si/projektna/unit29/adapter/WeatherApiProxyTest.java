@@ -24,8 +24,8 @@ public class WeatherApiProxyTest {
     @Test
     public void testGetHistoricalData() throws IOException, InterruptedException {
         Date xDaysAgo = Date.from( Instant.now().minus(Duration.ofDays(1)) );
-        WeatherApiProxy proxy = new WeatherApiProxy("http://api.weatherapi.com/v1/", "3cc0e117d583487d94a84732210807");
-        WeatherData wdata = proxy.getHistoricalData("Maribor", xDaysAgo);
+        WeatherApiProxy proxy = new WeatherApiProxy("http://api.weatherapi.com/v1/", "3cc0e117d583487d94a84732210807", false);
+        WeatherData wdata = proxy.getHistoricalData("maribor", xDaysAgo);
 
         assertNotNull(wdata);
         //assertNotNull(wdata.getForecast().getForecastday()[0].getAstro().getSunrise());
@@ -43,5 +43,6 @@ public class WeatherApiProxyTest {
             }
         }
         System.out.println(wdata.getForecast().getForecastday()[0].getHour().length);
+
     }
 }

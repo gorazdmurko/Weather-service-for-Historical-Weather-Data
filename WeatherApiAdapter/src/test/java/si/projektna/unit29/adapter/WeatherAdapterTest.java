@@ -25,7 +25,7 @@ public class WeatherAdapterTest {
     @Test
     public void testGetTemperatures() throws IOException, InterruptedException {
         Date xDaysAgo = Date.from( Instant.now().minus(Duration.ofDays(1)) );
-        IWeatherApiProxy proxy = new WeatherApiProxy("http://api.weatherapi.com/v1/", "3cc0e117d583487d94a84732210807");
+        IWeatherApiProxy proxy = new WeatherApiProxy("http://api.weatherapi.com/v1/", "3cc0e117d583487d94a84732210807", false);
         WeatherData weatherData = proxy.getHistoricalData("Maribor", xDaysAgo);
 
         int numOfDays = weatherData.getForecast().getForecastday()[0].getHour().length;

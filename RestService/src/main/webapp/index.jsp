@@ -16,7 +16,7 @@
         e.preventDefault();
         let loc = $('#txtLoc').val();
         let dtm = $('#txtDate').val();
-        let url = "api/weatherResource/" + encodeURI(dtm) + "?location=" + encodeURI(loc) + "&width=800&height=600";
+        let url = "api/weatherResource/" + encodeURI(dtm) + "?location=" + encodeURI(loc) + "&width=750&height=500";
         // $('#imgGraph').attr("src", "https://i.stack.imgur.com/i0Khf.gif");
         $('#imgGraph').attr("src", "https://i.stack.imgur.com/MEBIB.gif");
         let data = await $.get(url);

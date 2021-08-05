@@ -34,7 +34,7 @@ public class FrameWindow extends JFrame {
     FrameWindow() {
 
         this.setTitle("Weather service - historical weather data");
-        this.setSize(900, 700);
+        this.setSize(800, 600);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         panel = new BottomPanel();
         graphPanel = new GraphPanel();
