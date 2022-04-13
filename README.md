@@ -4,3 +4,16 @@
 1. run ServerMain    -> starts RMI server
 2. run MainApp       -> starts GUI & RMI client
 3. run Tomcat server -> starts REST service
+
+
+******************
+*  DEPENDENCIES  *
+******************
+
+COMPONENT                DEPENDENCY
+DesktopGUI               WeatherServiceITF
+RestService              WeatherApiAdapter, WeatherService, WeatherServiceITF
+WeatherApiAdapter        WeatherService, WeatherServiceITF
+WeatherServer            WeatherService, WeatherServiceITF, WeatherApiAdapter
+WeatherService           WeatherServiceITF
+WeatherServiceITF        /
