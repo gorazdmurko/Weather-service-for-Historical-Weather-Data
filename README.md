@@ -10,10 +10,10 @@
 *  DEPENDENCIES  *
 ******************
 
-COMPONENT                DEPENDENCY
-DesktopGUI               WeatherServiceITF
-RestService              WeatherApiAdapter, WeatherService, WeatherServiceITF
-WeatherApiAdapter        WeatherService, WeatherServiceITF
-WeatherServer            WeatherService, WeatherServiceITF, WeatherApiAdapter
-WeatherService           WeatherServiceITF
-WeatherServiceITF        /
+   - COMPONENT -               - DEPENDENCY -
+1. DesktopGUI               * WeatherServiceITF
+2. RestService              * WeatherApiAdapter, WeatherService, WeatherServiceITF
+3. WeatherApiAdapter        * WeatherService, WeatherServiceITF
+4. WeatherServer            * WeatherService, WeatherServiceITF, WeatherApiAdapter
+5. WeatherService           * WeatherServiceITF
+6. WeatherServiceITF        * /
